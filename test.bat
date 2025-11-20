@@ -1,3 +1,5 @@
 @echo off
-echo dildo!
-pause
+echo ПОПАЛСЯ! ;)
+msg * "ПОПАЛСЯ! ;)"
+timeout 10
+exit
